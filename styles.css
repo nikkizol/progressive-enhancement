@@ -1,0 +1,56 @@
+blockquote {
+    width: 45%;
+    margin: 80px auto 80px auto;
+    font-size: 160%;
+    background-color:#DCDCDC;
+    border-left: 3px dashed;
+    padding-left: 30px;
+    font-style: italic;
+    color: black;
+}
+p {font-family: Serif;
+    letter-spacing: 2px;
+    color:#404040;
+    display: inline-block;
+    background-color:#DCDCDC;
+    background-size: auto;
+
+}
+q {font-style: italic;
+}
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
+a:visited {
+    color: grey;
+}
+body {
+    width: 90%;
+    margin:auto;
+    background: -webkit-radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
+    background: radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
+    background-image: url("https://images.unsplash.com/photo-1506777390528-af8560003b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.farmer {
+    border-color: red;
+}
+.villagers {
+    border-color: blue;
+}
+header > p {
+    background-color: yellow;
+}
