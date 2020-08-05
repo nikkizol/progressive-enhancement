@@ -54,4 +54,11 @@ body {
 }
 header > p {
     background-color: yellow;
+
+}
+.bad {
+    color:red;
+}
+.good {
+    color:green;
 }
