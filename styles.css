@@ -54,11 +54,29 @@ body {
 }
 header > p {
     background-color: yellow;
-
 }
 .bad {
     color:red;
+    text-transform: capitalize;
 }
 .good {
     color:green;
+    text-transform: capitalize;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 20%;
+    border: 1px solid #DCDCDC;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+h1 > p {
+    font-weight: bold;
 }
