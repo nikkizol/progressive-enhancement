@@ -15,9 +15,6 @@ p {font-family: Serif;
     background-color:#DCDCDC;
     background-size: auto;
 
-}
-q {font-style: italic;
-}
 a:link, a:visited {
     background-color: black;
     color: white;
@@ -39,13 +36,10 @@ a:visited {
 body {
     width: 90%;
     margin:auto;
-    background: -webkit-radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
-    background: radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
     background-image: url("https://images.unsplash.com/photo-1506777390528-af8560003b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .farmer {
     border-color: red;
 }
