@@ -7,14 +7,15 @@ blockquote {
     padding-left: 30px;
     font-style: italic;
     color: black;
+    ;
 
 }
 p {font-family: Serif;
     letter-spacing: 2px;
     color:#404040;
-    display: inline-block;
     background-color:#DCDCDC;
-    background-size: auto;
+    display: inline;
+
 
 }
 q {font-style: italic;
@@ -40,8 +41,6 @@ a:visited {
 body {
     width: 90%;
     margin:auto;
-    background: -webkit-radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
-    background: radial-gradient(rgb(175, 195, 212), rgb(189, 207, 225));
     background-image: url("https://images.unsplash.com/photo-1506777390528-af8560003b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
     background-repeat: no-repeat;
     background-size: cover;
@@ -80,4 +79,12 @@ tr:nth-child(even) {
 
 .story p:first-of-type  {
     font-weight: bold;
+}
+img {
+    float: left;
+    margin-right: 20px;
+
+}
+h3 {
+    margin-top: 130px;
 }
