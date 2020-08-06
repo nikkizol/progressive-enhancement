@@ -10,7 +10,7 @@ blockquote {
     ;
 
 }
-p {font-family: Serif;
+p {font-family: 'PT Serif', serif;
     letter-spacing: 2px;
     color:#404040;
     background-color:#DCDCDC;
@@ -44,7 +44,7 @@ body {
     background-image: url("https://images.unsplash.com/photo-1506777390528-af8560003b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: "Open Sans Condensed";
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .farmer {
