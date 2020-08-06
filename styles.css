@@ -7,7 +7,7 @@ blockquote {
     padding-left: 30px;
     font-style: italic;
     color: black;
-    ;
+    font-family: 'PT Serif', serif;
 
 }
 p {font-family: 'PT Serif', serif;
@@ -18,8 +18,7 @@ p {font-family: 'PT Serif', serif;
 
 
 }
-q {font-style: italic;
-}
+
 a:link, a:visited {
     background-color: black;
     color: white;
@@ -86,7 +85,7 @@ img {
     margin-right: 20px;
 
 }
-h3 {
+.preamble {
     margin-top: 130px;
 }
 
