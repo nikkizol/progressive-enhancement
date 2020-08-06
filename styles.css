@@ -44,6 +44,7 @@ body {
     background-image: url("https://images.unsplash.com/photo-1506777390528-af8560003b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: "Open Sans Condensed";
 }
 
 .farmer {
@@ -88,3 +89,4 @@ img {
 h3 {
     margin-top: 130px;
 }
+
