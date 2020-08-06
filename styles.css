@@ -56,11 +56,11 @@ header > p {
     background-color: yellow;
 }
 .bad {
-    color:darksalmon;
+    color:firebrick;
     text-transform: capitalize;
 }
 .good {
-    color:darkseagreen;
+    color:darkgreen;
     text-transform: capitalize;
 }
 table {
